@@ -93,6 +93,13 @@ Initial release of Dependency Impact Visualizer:
 
 **Enjoy visualizing your code dependencies!**
 
+## Connect With Me
+
+- 🐙 **GitHub**: [SarthakSingh-96](https://github.com/SarthakSingh-96)
+- 💼 **LinkedIn**: [Sarthak Singh](https://www.linkedin.com/in/sarthaksingh-96)
+- 🌐 **Portfolio**: [sarthaksingh.dev](https://sarthaksingh.dev)
+- 📧 **Email**: [sarthaksingh1211@gmail.com](mailto:sarthaksingh1211@gmail.com)
+
 ## Following extension guidelines
 
 Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
