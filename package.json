@@ -2,13 +2,13 @@
   "name": "codeweb",
   "displayName": "Dependency Impact Visualizer",
   "description": "Real-time visual graph showing how changes to functions/classes ripple through your codebase",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Sarthak",
   "license": "MIT",
   "author": {
     "name": "Sarthak Singh",
     "email": "sarthaksingh1211@gmail.com",
-    "url": "https://sarthaksingh.dev"
+    "url": "https://sarthaksingh-96.github.io"
   },
   "repository": {
     "type": "git",

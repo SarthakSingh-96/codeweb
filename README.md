@@ -97,7 +97,7 @@ Initial release of Dependency Impact Visualizer:
 
 - 🐙 **GitHub**: [SarthakSingh-96](https://github.com/SarthakSingh-96)
 - 💼 **LinkedIn**: [Sarthak Singh](https://www.linkedin.com/in/sarthaksingh-96)
-- 🌐 **Portfolio**: [sarthaksingh.dev](https://sarthaksingh.dev)
+- 🌐 **Portfolio**: [sarthaksingh.dev](https://sarthaksingh-96.github.io)
 - 📧 **Email**: [sarthaksingh1211@gmail.com](mailto:sarthaksingh1211@gmail.com)
 
 ## Following extension guidelines
