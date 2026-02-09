@@ -5,10 +5,19 @@
   "version": "0.0.1",
   "publisher": "Sarthak",
   "license": "MIT",
+  "author": {
+    "name": "Sarthak Singh",
+    "email": "sarthaksingh1211@gmail.com",
+    "url": "https://sarthaksingh.dev"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/SarthakSingh-96/codeweb"
   },
+  "bugs": {
+    "url": "https://github.com/SarthakSingh-96/codeweb/issues"
+  },
+  "homepage": "https://github.com/SarthakSingh-96/codeweb#readme",
   "engines": {
     "vscode": "^1.109.0"
   },
