@@ -1,9 +1,9 @@
 {
-  "name": "codeweb",
+  "name": "dependency-impact-visualizer",
   "displayName": "Dependency Impact Visualizer",
   "description": "Real-time visual graph showing how changes to functions/classes ripple through your codebase",
   "version": "0.0.2",
-  "publisher": "Sarthak",
+  "publisher": "CODEWEB",
   "license": "MIT",
   "author": {
     "name": "Sarthak Singh",
