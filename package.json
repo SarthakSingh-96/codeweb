@@ -2,8 +2,13 @@
   "name": "dependency-impact-visualizer",
   "displayName": "Dependency Impact Visualizer",
   "description": "Real-time visual graph showing how changes to functions/classes ripple through your codebase",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "CODEWEB",
+  "icon": "media/Gemini_Generated_Image_2s5pog2s5pog2s5p.png",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
   "license": "MIT",
   "author": {
     "name": "Sarthak Singh",
